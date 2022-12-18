@@ -1,0 +1,9 @@
+﻿@page
+
+<h1>Time: @DateTime.Now.ToShortTimeString()</h1>
+<p>@@DateTime.Now =@DateTime.Now.ToLongDateString()</p>
+@{
+    int i = 8;
+    <p>@i</p>
+}
+<p>@(i + 1)</p>

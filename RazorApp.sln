@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorApp", "RazorApp\RazorApp.csproj", "{B76A0000-2A15-4B7B-8202-E67536A36750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{CCA81580-48ED-4509-870B-D418AE812AC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B76A0000-2A15-4B7B-8202-E67536A36750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76A0000-2A15-4B7B-8202-E67536A36750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76A0000-2A15-4B7B-8202-E67536A36750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76A0000-2A15-4B7B-8202-E67536A36750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA81580-48ED-4509-870B-D418AE812AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA81580-48ED-4509-870B-D418AE812AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA81580-48ED-4509-870B-D418AE812AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA81580-48ED-4509-870B-D418AE812AC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC99A8A1-5018-494F-9B0B-E218E3AFE206}
+	EndGlobalSection
+EndGlobal
